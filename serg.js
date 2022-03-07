@@ -1,6 +1,6 @@
-awesomePeople = ['jGamito ', 'Ion ', 'Bachir ', 'Alex ', 'Sergio ']
+awesomePeople = ['jGamito', ' Ion', ' Bachir', ' Alex', ' Sergio']
 
-awesomePeople.push('Claudio')
+awesomePeople.push(' Claudio')
 
 console.log(awesomePeople)
 
